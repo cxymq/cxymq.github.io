@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://github.com/cxymq/Images/blob/master/1.公众号二维码/qrcode.png" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 人不正经
 话不干净
 写不明白
@@ -25,7 +25,7 @@ type: page
 * GitHub：[cxymq](https://github.com/cxymq)
 * email：18155372029@163.com
 * csdn：[Crazy_Mikey](https://blog.csdn.net/Crazy_SunShine)
-* 公众号：Flutter小同学
+* 公众号：[Flutter小同学](https://github.com/cxymq/Images/blob/master/1.公众号二维码/qrcode.png)
 
 
 
